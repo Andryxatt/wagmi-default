@@ -18,6 +18,11 @@ export const config = createConfig({
   autoConnect: true,
   connectors: [
     new MetaMaskConnector({ chains }),
+    new WalletConnectConnector({
+      options: {
+        projectId: '37d4531c02159e2d08fc933bcf6e813b'
+      }
+    }),
     new CoinbaseWalletConnector({
       chains,
       options: {
