@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [wagmi](https://wagmi.sh) + [Vite](https://vitejs.dev/) project bootstrapped with [`create-wagmi`](https://github.com/wagmi-dev/wagmi/tree/main/packages/create-wagmi)
 
 # Getting Started
@@ -13,3 +14,7 @@ To learn more about [Vite](https://vitejs.dev/) or [wagmi](https://wagmi.sh), ch
 - [wagmi Documentation](https://wagmi.sh) – learn about wagmi Hooks and API.
 - [wagmi Examples](https://wagmi.sh/examples/connect-wallet) – a suite of simple examples using wagmi.
 - [Vite Documentation](https://vitejs.dev/) – learn about Vite features and API.
+=======
+# wagmi-default
+wagmi-default
+>>>>>>> b5711fe139fee9325c91175d7e69166896ae895f
